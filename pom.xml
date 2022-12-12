@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.lottery.project</groupId>
-    <artifactId>lotteryV3</artifactId>
+    <artifactId>lotteryV4_pdf</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>lotteryV3</name>
     <description>lotteryV3</description>
